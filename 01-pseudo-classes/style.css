@@ -1,0 +1,7 @@
+/* seletor: pseudo-classe {
+  propriedade: valor;
+} */
+
+p:first-child {
+  color: aquamarine;
+}
